@@ -1,10 +1,12 @@
-# llm-cost-observability
+# Llm Cost Tracker
 
-![CI](https://github.com/TryKosm/llm-cost-observability/actions/workflows/ci.yml/badge.svg)
+Token cost and latency observability for LLM workloads.
+
+![CI](https://github.com/TryKosm/llm-cost-tracker/actions/workflows/ci.yml/badge.svg)
 
 Token cost and latency observability utilities for LLM workloads.
 
-[![CI](https://github.com/TryKosm/llm-cost-observability/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/llm-cost-observability/actions/workflows/ci.yml)
+[![CI](https://github.com/TryKosm/llm-cost-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/llm-cost-tracker/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
